@@ -1,6 +1,6 @@
 # Tweens
 
-## setTween(subject, target, duration, duration, [callback])
+## setTween(subject, target, easing, duration, [callback])
 - `subject` *Object* The source object that will be altered.
 - `target` *Object* The target object that the source object will be interpolated to.
 - `easing` *Function* The easing function that will be called each 
